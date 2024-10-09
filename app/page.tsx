@@ -3,20 +3,20 @@
 import { Button } from "@/components/ui/button";
 import { Drawer, DrawerContent, DrawerTrigger } from "@/components/ui/drawer";
 import {
-  Bot,
-  CircleAlert,
-  CircleAlertIcon,
-  DoorClosedIcon,
-  FileCheck2,
-  LucideCircleAlert,
-  OctagonAlert,
-  Plus,
+  // Bot,
+  // CircleAlert,
+  // CircleAlertIcon,
+  // DoorClosedIcon,
+  // FileCheck2,
+  // LucideCircleAlert,
+  // OctagonAlert,
+  // Plus,
   Settings,
-  TriangleAlert,
+  // TriangleAlert,
 } from "lucide-react";
 import { ModeToggle } from "@/components/modetoggle";
 import { useState } from "react";
-import { useChat } from "ai/react";
+// import { useChat } from "ai/react";
 import ReportComponent from "@/components/reportComponent";
 // import { toast } from "sonner";
 import { useToast } from "@/hooks/use-toast"

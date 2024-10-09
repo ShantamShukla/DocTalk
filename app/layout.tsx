@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 // import { Toaster } from "@/components/ui/sonner";
 import { Toaster } from "@/components/ui/toaster"
 
-const inter = Inter({ subsets: ["latin"] });
+// const inter = Inter({ subsets: ["latin"] });
 const source_code_pro = Source_Code_Pro({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
