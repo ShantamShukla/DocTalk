@@ -30,7 +30,7 @@ type Props = {
   isLoading: boolean;
 }
 
-const Messages = ({ messages, isLoading }: Props) => {
+const Messages = ({ messages }: Props) => {
   return (
     <div className='flex flex-col gap-4'>
       {messages.map((m, index)=>{

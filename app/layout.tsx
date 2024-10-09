@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter, Source_Code_Pro } from "next/font/google";
+import { Source_Code_Pro } from "next/font/google";
 import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ThemeProvider } from "@/components/theme-provider";
